@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".demoTwo.MainActivityTwo"
+    android:orientation="vertical">
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayoutTwo"
+        android:layout_width="409dp"
+        android:layout_height="wrap_content"
+        app:tabIndicatorColor="@color/white"
+        android:background="#CB8EF6"
+        app:tabSelectedTextColor="@color/white"/>
+
+    <FrameLayout
+        android:id="@+id/frameLayoutTwo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnShowToast">Afficher Toast</string>
+    <string name="app_name">MsgShareApp</string>
+    <string name="shareToOther">Shere to other appro</string>
+    <string name="sendNext">Sende tO ende</string>
+    <string name="etmessage">Enter your message here</string>
+    <string name="btnRecycleView">Recycle View Demo</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="btn_clicked">Buttne clicke</string>
+</resources>

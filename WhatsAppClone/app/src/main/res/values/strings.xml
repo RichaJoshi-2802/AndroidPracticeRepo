@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WhatsAppClone</string>
+    <string name="chatsMain">Chats</string>
+    <string name="statusMain">Status</string>
+    <string name="callMain">Calls</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tabs_for_navigating_different_sections">Tabs for navigating different sections</string>
+    <string name="app_logo">logo_of_the_app</string>
+    <string name="login_view_tab">login_view_tab</string>
+    <string name="login_scrollView">login_scrollView</string>
+    <string name="login_email">Enter your email:</string>
+    <string name="login_password">Enter your password:</string>
+    <string name="signup_email">Enter your email:</string>
+    <string name="signup_password">Enter your password:</string>
+    <string name="signup_scrollView">signup_scrollView</string>
+    <string name="enter_password">Re-Enter password\n</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="btn_log_in">LogIn</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="title_activity_fake">fake</string>
+    <string name="profile_main">Profile</string>
+    <string name="aboutUs_main">About Us</string>
+    <string name="logOut_main">Log Out</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="profileStatus">Status\n</string>
+    <string name="name_of_the_user">Name of the User</string>
+    <string name="email_of_the_user">Email of the User\n</string>
+    <string name="status_of_the_user">Status of the User</string>
+    <string name="checkContacts">Check Contacts</string>
+</resources>

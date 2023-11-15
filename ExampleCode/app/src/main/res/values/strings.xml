@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExampleCode</string>
+    <string name="button_one">Button one</string>
+    <string name="button_two">Button Two</string>
+    <string-array name="cities">
+        <item>Select City</item>
+        <item>Chandigarh</item>
+        <item>Panchkula</item>
+        <item>Mohali</item>
+    </string-array>
+</resources>

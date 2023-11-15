@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="image_for_student">Image_for_student</string>
+    <string name="text_here">text here</string>
+    <string name="roll_no">Roll No :</string>
+    <string name="name">Name :</string>
+</resources>

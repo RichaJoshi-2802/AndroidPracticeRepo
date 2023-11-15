@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MsgShareApp</string>
+    <string name="btnShowToast">ShowToast</string>
+    <string name="shareToOther">Share to other App</string>
+    <string name="sendNext">Send to next</string>
+    <string name="etmessage">Enter your message here</string>
+    <string name="btnRecycleView">Show Hobbies</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="btn_clicked">Button clicked</string>
+</resources>

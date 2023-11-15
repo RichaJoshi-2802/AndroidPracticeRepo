@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".retrofitdemo.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/idTVHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="4dp"
+        android:text="Retrofit in Android"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <!-- on below line creating a text view for displaying a response message -->
+    <TextView
+        android:id="@+id/idTVMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="4dp"
+        android:text="Message"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
